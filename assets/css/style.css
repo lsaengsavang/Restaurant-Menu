@@ -91,3 +91,7 @@ th {
 .pun {
     color: darkgreen;
 }
+
+ul {
+    list-style-position: inside;
+}
